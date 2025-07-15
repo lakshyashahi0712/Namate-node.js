@@ -16,5 +16,4 @@ function multiplyFn(x,y){
 }
 
 var c = multiplyFn(a,b);
-
 console.log(c);
